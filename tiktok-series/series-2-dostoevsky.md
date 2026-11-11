@@ -74,6 +74,32 @@ Quote: "To go wrong in one's own way is better than to go right in someone else'
 
 ## Next parts (I'll write each one the day before)
 4. **Something to live for** (The Brothers Karamazov): "The secret of man's being is not only to live, but to have something to live for."
-5. **Don't lie to yourself** (The Brothers Karamazov): "Above all, don't lie to yourself."
+5. **Don't lie to yourself**: written in full below.
 6. **Pain and a deep heart** (Crime and Punishment): "Pain and suffering are always inevitable for a large intelligence and a deep heart."
 7. **Counting only troubles** (Notes from Underground): "Man only likes to count his troubles; he doesn't calculate his happiness."
+
+---
+
+## Don't lie to yourself (The Brothers Karamazov, Elder Zosima)
+Quote: "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love."
+
+**On screen:** از همه مهم‌تر... به خودت دروغ نگو.
+
+> ده کتاب «برادران کارامازوف»، یک پیرمرد دانا میگه:
+> «از همه مهم‌تر... به خودت دروغ نگو.»
+> ...
+> بعد میگه اگه دروغ بگی، چی میشه:
+> کسی که به خودش دروغ میگه، و به دروغ خودش گوش میته...
+> یک روز دیگه راست ره نمی‌بینه. نه ده خودش... نه ده دور و برش.
+> بعد احترام خوده از دست میته... و احترام دیگرا ره.
+> و کسی که احترام نداره... دیگه دوست داشته نمی‌تانه.
+> ...
+> و همه‌اش با یک دروغ کوچک شروع میشه:
+> «فردا شروع می‌کنم.» «ای آخرین بار است.» «مشکل از من نیست.»
+> ...
+> امروز فقط یک دروغی که به خودت میگی، پیدا کو.
+> فقط یکی.
+>
+> **فردا، یک گپ دیگه از داستایفسکی.**
+
+**Caption:** کدام دروغ ره زیادتر به خودت میگی؟ 👇🖤
