@@ -1,61 +1,79 @@
-# Series 2: داستایفسکی (Dostoevsky), one part per day
+# Series 2: گپ‌های داستایفسکی (what Dostoevsky said about becoming someone)
 
-Deep ideas from Fyodor Dostoevsky's life and books, told simply in spoken Dari.
-Same look as always: dark room, one light, hoodie, slow deep voice.
+Each part = **one real Dostoevsky quote** + what it means for your life. No biography.
+Same look: dark room, one light, hoodie, slow deep voice.
 `...` = pause about 1 second. Dari subtitles on every line.
+End every part with: **«فردا، یک گپ دیگه از داستایفسکی.»**
+
+Hashtags for all parts: #داستایفسکی #کتاب #دری #افغان #خودسازی #afghantiktok #dostoevsky
 
 ---
 
-## قسمت ۱: The man they took to be executed (his story)
-**On screen:** او ره برای اعدام بردن...
+## قسمت ۱: The new step (Crime and Punishment)
+Quote: "Taking a new step, uttering a new word, is what people fear most."
 
-> سال ۱۸۴۹. یک نویسندهٔ جوان ره با چند نفر دیگه برای اعدام بردن.
-> سه نفر اول ره به چوب بستن. عسکرها تفنگ‌ها ره بالا کدن.
-> او نفر بعدی بود.
-> ...
-> و ده آخرین لحظه... یک نفر آمد و گفت: پادشاه بخشیده.
-> ...
-> نامش فیودور داستایفسکی بود.
-> همو شب به برادرش نوشت:
-> «زندگی یک تحفه است... هر دقیقه‌اش می‌تانه یک عمر خوشبختی باشه.»
-> ...
-> بعد ازو، چهار سال ده سایبریا زندان کشید.
-> و بعدها... بزرگ‌ترین کتاب‌های دنیا ره نوشت.
-> ...
-> و ما؟ روزهایمه با موبایل ضایع می‌کنیم... فکر می‌کنیم وقت زیاد داریم.
->
-> **فردا، اولین درس از کتاب‌هایش.**
+**On screen:** چیزی که آدم از همه زیادتر ازش می‌ترسه...
 
-**Caption:** اگه بفامی فردا آخرین روزت است، امروز چی می‌کنی؟ 👇🖤
-**Hashtags:** #داستایفسکی #کتاب #دری #افغان #فلسفه #afghantiktok #dostoevsky
+> داستایفسکی یک گپ داره:
+> «چیزی که آدم از همه زیادتر ازش می‌ترسه... یک قدم نو برداشتن است.»
+> ...
+> نه مرگ. نه فقر. یک قدم نو.
+> ...
+> ده یک زندگی بد می‌مانی... چون اونه می‌شناسی.
+> کار نو، راه نو، آدم نو... چون نمی‌شناسی، ازش می‌ترسی.
+> ...
+> ولی هر کسی که ده ای دنیا کسی شد...
+> یک روز، با همی ترس... یک قدم نو برداشت.
+> ...
+> تو امروز کدام قدمه برمیداری؟
 
-*Facts check: mock execution on 22 Dec 1849 in St Petersburg; the Tsar's pardon was planned in advance but read out at the last moment; the letter to his brother Mikhail was written the same day; then 4 years of hard labour in Omsk, Siberia.*
+**Caption:** کدام قدمه سال‌ها است که برنداشتی؟ 👇🖤
 
 ---
 
-## قسمت ۲: Don't lie to yourself (The Brothers Karamazov)
-**On screen:** از همه مهم‌تر... به خودت دروغ نگو.
+## قسمت ۲: You can get used to anything (The House of the Dead)
+Quote: "Man is a creature that can get used to anything, and I think that is the best definition of him."
 
-> ده کتاب «برادران کارامازوف»، یک پیرمرد دانا یک گپ میگه که آدمه تکان میته:
-> «از همه مهم‌تر... به خودت دروغ نگو.»
-> ...
-> میگه: کسی که به خودش دروغ میگه، و به دروغ خودش گوش میته...
-> یک روز به جایی میرسه که دیگه راست ره از دروغ فرق کده نمی‌تانه.
-> نه ده خودش... نه ده دیگرا.
-> ...
-> فکر کو. «فردا شروع می‌کنم.» «ای آخرین بار است.» «مشکل از من نیست.»
-> ای دروغ‌ها کوچک معلوم میشن...
-> ولی هر روز، یک کمی از خودت دورتر میشی.
-> ...
-> امروز فقط یک دروغی که به خودت میگی، پیدا کو.
+**On screen:** آدم به هر چیز عادت می‌کنه.
 
-**Caption:** کدام دروغ ره زیادتر به خودت میگی؟ 👇🖤
+> داستایفسکی میگه:
+> «انسان موجودی است که به هر چیز عادت می‌کنه.»
+> ...
+> ای هم قوت ما است... هم بدبختی ما.
+> عادت می‌کنی به کاری که ازش بدت میایه.
+> عادت می‌کنی به بدنی که دوستش نداری.
+> عادت می‌کنی به آدم‌هایی که پایینت می‌کشن.
+> و یک روز می‌فامی... که سال‌ها گذشته.
+> ...
+> ولی گپ خوبش ای است:
+> اگه به بد عادت کده می‌تانی... به خوب هم عادت کده می‌تانی.
+> فقط باید شروع کنی.
+
+**Caption:** به کدام چیز بد عادت کدی؟ 👇🖤
+
+---
+
+## قسمت ۳: Your own way (Crime and Punishment)
+Quote: "To go wrong in one's own way is better than to go right in someone else's."
+
+**On screen:** به راه خودت غلط برو...
+
+> داستایفسکی ده کتاب «جنایت و مکافات» میگه:
+> «به راه خودت غلط رفتن... بهتر است از درست رفتن به راه دیگرا.»
+> ...
+> ما از کودکی می‌شنویم: داکتر شو. انجنیر شو. مردم چی میگن.
+> و یک روز می‌بینی ده زندگی‌ای استی که خودت انتخاب نکدی.
+> ...
+> اگه به راه خودت بری و غلطی کنی... حداقل از غلطی خودت یاد می‌گیری.
+> ولی اگه به راه دیگرا بری...
+> حتی کامیابی‌ات هم مال تو نیست.
+
+**Caption:** تو به راه خودت میری، یا به راه دیگرا؟ 👇🖤
 
 ---
 
 ## Next parts (I'll write each one the day before)
-3. **Crime and Punishment:** the real punishment isn't prison. It's what happens inside you.
-4. **Notes from Underground:** the man who thinks about everything and does nothing.
-5. **The Idiot:** a truly good man, and why people call him an idiot.
-6. **Pain and a deep heart:** "Pain and suffering are always inevitable for a large intelligence and a deep heart."
-7. **The Brothers Karamazov:** "What is hell? The suffering of being unable to love."
+4. **Something to live for** (The Brothers Karamazov): "The secret of man's being is not only to live, but to have something to live for."
+5. **Don't lie to yourself** (The Brothers Karamazov): "Above all, don't lie to yourself."
+6. **Pain and a deep heart** (Crime and Punishment): "Pain and suffering are always inevitable for a large intelligence and a deep heart."
+7. **Counting only troubles** (Notes from Underground): "Man only likes to count his troubles; he doesn't calculate his happiness."
