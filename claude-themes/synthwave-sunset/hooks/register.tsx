@@ -44,6 +44,9 @@ const LOOK: ThemeSetArgs = {
   },
 }
 
+// A RegExp, since the tool's name is typed only once the engine has listed it.
+const CHECK_TOOL = /^mcp__synthwave-sunset__theme_check$/
+
 export const register: Register = on => {
   on('session.start', async ($, e, next) => {
     const unpainted = problems.find(line => line.startsWith("Desktop won't paint"))
@@ -56,8 +59,31 @@ export const register: Register = on => {
     if (!set.isDrawn) {
       $.ui.status(set.reason)
     }
+    await $.tool.register({
+      name: 'theme_check',
+      description:
+        'Sends the Synthwave Sunset theme again and reports whether an attached app draws it: the surfaces attached, isDrawn and its reason.',
+    })
 
     return next(e)
+  })
+
+  // Sends the look again and says what the engine answered, to find out why
+  // someone can't see it.
+  on('tool.call', { tool: CHECK_TOOL }, async $ => {
+    const set = await $.theme.set(LOOK)
+    const surfaces = await $.session.surfaces()
+    const version = await $.session.version()
+
+    return {
+      result: JSON.stringify({
+        surfaces,
+        isDrawn: set.isDrawn,
+        reason: set.isDrawn ? undefined : set.reason,
+        engine: version.version,
+        paletteProblems: problems,
+      }),
+    }
   })
 
   on('ui.render', { component: 'Backdrop' }, ($, e, next) => {
